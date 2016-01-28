@@ -1,6 +1,0 @@
-Write Throughput 2
-0.036032915
-0.018694162
-Read Throughput 2
-0.000032187
-0.000018835
